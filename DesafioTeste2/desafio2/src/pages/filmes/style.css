@@ -1,0 +1,17 @@
+.form
+{
+    margin-top: 3%;
+    margin-left: 46%;
+}
+
+.form td
+{
+    font-size: 150%;
+    border-spacing: 20%;
+}
+
+table
+{
+    border-collapse: separate;
+    width: 20%;
+}

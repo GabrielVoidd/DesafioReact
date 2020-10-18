@@ -1,0 +1,36 @@
+.header{
+    background-color: aqua;
+    height: 200px;
+}
+
+.imgLogo
+{
+    margin-top: 4%;
+    margin-left: 16%;
+}
+
+ul
+{
+    position: absolute;
+    text-decoration: none;
+    margin-left: 66%;
+    margin-top: -54px;
+}
+
+ul li
+{
+    font-size: 180%;
+    display: inline;
+    margin-left: 30%;
+}
+
+p{
+    margin-left: 16%;
+    font-size: 150%;
+    position: absolute;
+}
+
+a
+{
+    color: black;
+}
