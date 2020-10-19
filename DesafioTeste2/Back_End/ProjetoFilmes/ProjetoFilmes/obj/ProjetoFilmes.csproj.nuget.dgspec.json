@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GabrielVoidd(UsernameGitHub)\\NSG\\react\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj": {}
+    "C:\\Users\\thi_s\\Desktop\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj": {}
   },
   "projects": {
-    "C:\\GabrielVoidd(UsernameGitHub)\\NSG\\react\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj": {
+    "C:\\Users\\thi_s\\Desktop\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GabrielVoidd(UsernameGitHub)\\NSG\\react\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
+        "projectUniqueName": "C:\\Users\\thi_s\\Desktop\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
         "projectName": "ProjetoFilmes",
-        "projectPath": "C:\\GabrielVoidd(UsernameGitHub)\\NSG\\react\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
-        "packagesPath": "C:\\Users\\souza\\.nuget\\packages\\",
-        "outputPath": "C:\\GabrielVoidd(UsernameGitHub)\\NSG\\react\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\obj\\",
+        "projectPath": "C:\\Users\\thi_s\\Desktop\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
+        "packagesPath": "C:\\Users\\thi_s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thi_s\\Desktop\\DesafioReact\\DesafioTeste2\\Back_End\\ProjetoFilmes\\ProjetoFilmes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

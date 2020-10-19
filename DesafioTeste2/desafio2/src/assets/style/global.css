@@ -6,3 +6,7 @@
     text-decoration: none;
     font-family: 'Roboto Slab', serif;
 }
+
+mark{
+    background-color: crimson;
+}
