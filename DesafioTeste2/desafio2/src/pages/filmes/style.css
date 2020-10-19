@@ -1,7 +1,7 @@
 .form
 {
     margin-top: 3%;
-    /* margin-left: 46%; */
+    margin-left: 96%;
     width: 40%;
     margin: auto;
 
@@ -17,4 +17,6 @@ table
 {
     border-collapse: separate;
     width: 50%;
+    margin-left: 25%;
+    margin-top: 7%;
 }

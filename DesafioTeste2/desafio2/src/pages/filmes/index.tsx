@@ -13,7 +13,7 @@ function Filmes()
     },[]);
 
     const listarFilmes = ()=>{
-        fetch('http://localhost:5000/api/filmes',{
+        fetch('http://localhost:3000/api/filmes',{
             method: 'GET'
         })
         .then(response => response.json())
